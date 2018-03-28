@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <meta charset='UTF-8' />
+  </head>
+  <body>
+    <h1>Open your console.</h1>
+    <script type="module">
+      import './node_modules/babel-polyfill/dist/polyfill.min.js';
+      import { main } from './main.js';
+      main();
+    </script>
+    <script nomodule type="text/javascript" src="bundle.js"></script>
+  </body>
+</html>
