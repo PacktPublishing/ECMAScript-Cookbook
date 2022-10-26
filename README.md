@@ -34,3 +34,7 @@ Some basic programming knowledge. If you haven't written a function before, this
 
 * [PostGIS Cookbook - Second Edition](https://www.packtpub.com/application-development/postgis-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788299329)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788628174">https://packt.link/free-ebook/9781788628174 </a> </p>
